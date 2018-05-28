@@ -20,3 +20,5 @@ FAIL  ./foo.spec.js
 
      at ../package1/index.js:29:27
 ```
+
+On branch jest21 this works.
